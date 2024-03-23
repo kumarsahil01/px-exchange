@@ -2,7 +2,7 @@
 /* replace func4 with newyorkbg */
 
 .homepage {
-  background-image: url(./../../assets/gradientbg6.png);
+  background-image: url("https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8cmVhbCUyMGVzdGF0ZXxlbnwwfHwwfHx8MA%3D%3D");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;

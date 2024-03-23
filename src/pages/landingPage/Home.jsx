@@ -22,13 +22,13 @@ const Home = () => {
         </button>
         <FaArrowRight className="text-[#233B76] font-bold mx-1" />
       </div>
-        <h1 className="dm text-center text-2xl  text-white sm:w-3/4 w-11/12 sm:text-center mx-auto  font-sans   ">
-        <span className="text-[#fff068e9] font-bold ">Empowering</span> everyone to
-        own and build <br /> <span className="text-[#fff068e9] font-bold">wealth</span>{" "}
-        through  <span className="text-[#fff068e9] font-bold">Real Estate</span>
+        <h1 className="dm text-center text-2xl  text-grey sm:w-3/4 w-11/12 sm:text-center mx-auto  font-sans   ">
+        <span className="text-[#233B76] font-bold ">Empowering</span> everyone to
+        own and build <br /> <span className="text-[#233B76] font-bold">wealth</span>{" "}
+        through  <span className="text-[#233B76] font-bold">Real Estate</span>
       </h1>
 
-      <p className="inter text-center text-lg sm:text-2lg text-white
+      <p className="inter text-center text-lg sm:text-2lg text-grey
       font-semibold sm:w-2/5 w-11/12 sm:text-center mx-auto my-3 sm:mb-24 mb-12">
       Let AI search the right Property for you.
       </p>
